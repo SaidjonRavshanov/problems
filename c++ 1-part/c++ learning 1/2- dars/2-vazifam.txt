@@ -1,0 +1,12 @@
+2-vazifa
+
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1.  150 Hafta necha soat ga teng
+2.  4 kun necha Minut ga teng
+3.  8 Soat necha Sekund ga teng
+4.  24 Soat necha Kun ga teng
+javob:
+1, 150*7(kun)*24(soat)=25200
+2, 4 kun×24(soat)×60( minut)=5760 minut
+3, 8 soat×60 minut×60 sekund=28800 sekund
+4, 24soat=1 kun

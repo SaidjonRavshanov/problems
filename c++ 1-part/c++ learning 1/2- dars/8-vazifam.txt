@@ -1,0 +1,14 @@
+8-vazifa
+
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1. 3200 Bit necha Bayt ga teng.
+2. 1200 KB necha MB ga teng.
+3. 48000 Bayt necha MB ga teng.
+4. 120000 MB necha TB ga teng.
+bit bayt kb mb tr
+javob:
+
+1. 3200/8=400 bayt
+2. 1200/1024=1.171875 mb
+3.  48000/1024/1024=0.0457763671875 mb
+4. 120000/1024=117.1875 tb

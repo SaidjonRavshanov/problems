@@ -1,0 +1,16 @@
+
+3-vazifa
+
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+
+1. 24 Kun necha Hafta ga teng:
+   24 kun / 7 kun/hafta = 3.428571428571429 hafta (taxminan 3.43 hafta) ya'ni 3 hafta 3 kun
+
+2. 3600 Sekund necha Soat ga teng:
+   3600 sekund / 3600 sekund/soat = 1 soat
+
+3. 2400 Sekund necha Minut ga teng:
+   2400 sekund / 60 sekund/minut = 40 minut
+
+4. 2419200 Sekund necha Haftaga ga teng:
+   2419200 sekund / 604800 sekund/hafta = 4 hafta

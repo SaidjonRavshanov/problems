@@ -1,0 +1,48 @@
+1-vazifa
+
+Quyidagi savollarga matn ko'rinishadi javob bering :
+1. SSD bn HDD farqini yoritib bering.
+2. Dastur deganda nmani tushunasiz ?
+3. 5 ta dasturlash tilini yozib bering.
+
+javob:
+asslomu aleykum vazifalarda o'zimning fikrimni ham qo'shimcha qilib ketyapman.
+1 savol javobi__________________________________________________________
+SSD(Solid State Drive)
+elektron chiplar orqali malumotlar salanadi, harakatlanuvchi qismlari yo'q
+hajmi kichik 
+tezlik yuqori
+narxi qimmatroq
+shikastlanishga kamroq moyil HDD ga nisbatan chunki bunda yuqorida aytganimizdek mexanik qismi yo'q
+....................................................................................................
+HDD (Hard Disk Drive)
+o'zining mexanik qismi mavjud, malumotlarni saqlash uchun aylanadigan disk mavjud
+ya'ni diskdan 5 mm uzoqlikdagi metal qalamcha undagi malumotlarni qidiradi
+hajmi katta ya'ni ko'p malumot sig'dira oladi
+tezlik past
+narxi azronroq 
+shikaslanishga ko'proq moyil chunki qalamcha aylanadigan diskka tegish extimoli yuqori
+____________________________________________
+xulosam:
+hard tomonlama taqqoslasak ssd va hdd bir biriga teskari proporsianal.
+
+2.savol javobi_______________________________________________________________________
+Dastur bu kompyuter bajarishi uchun dasturchilar tomonidan beriladigan buyruqlar ketma ketligi
+ya'ni dastur bir qonuniyat asosida ishlaydi.
+kompyuterimiz dastursiz umuman ishlamaydi , chunki kompyuterda operatsion tizimlarda ishlaymiz operatsion tizmlar esa dasturlardir
+kompyuterda bizning ko'zimizga ko'ringan narsalar dasturlar sarasiga kiradi, xar xil o'yinla , media player vaho kazo
+uni nazorat qiladigan esa dastur kodlari deyiladi.
+3. savol javobi____________________________________________________________________________
+5 ta dasturlash tili 
+c,c++ ,c# , java , python.
+
+c        dastrulash tili quyi dasturash tillardan biriga kiradi
+
+c++      esa c+oop=c++ yni c ga oop qo'shilganda c++ yaratilgan va bu qulayroq bo'lgan dastrlash tili
+
+c#       esa c lar oilasiga kiradi asosida c/c++ yotadi java bilan deyarli bir xil sintaktikaga ega 
+
+java     jvm ga asoslanan dasturlash tili , java kodini jvm ishga tushuradi.
+
+python   interpritator tilga kiradi ya'niPython kodlari kompilyatsiya qilinmaydi, balki to'g'ridan-to'g'ri interpretatsiya qilinadi,
+         bu esa dasturlash jarayonini tezlashtiradi va sinovlarni osonlashtiradi.

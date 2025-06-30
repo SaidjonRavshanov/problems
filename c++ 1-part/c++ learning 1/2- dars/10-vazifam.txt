@@ -1,0 +1,4 @@
+Quyidagi sonlarni 2 lik sanoq sistemasidan 10 lik sanoq sistemasiga o'tkazing :
+1. 11011(2) => ?(10)=2^0+2^1+2^3+2^4=27
+2. 10111(2) => ?(10)=2^0+2^1+2^2+2^4=23
+3. 11(2)    => ?(10)=2^0^2^1=3

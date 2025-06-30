@@ -1,0 +1,12 @@
+6-vazifa
+
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1.  8 TB necha KB ga teng.
+2. 12 MB necha Bayt ga teng.
+3. 5000 GB necha TB ga teng.
+4. 3000 MB necha GB ga teng.
+javob:
+1. 8 TB = 8 * 1024 GB = 8 * 1024 * 1024 MB = 8 * 1024 * 1024 * 1024 KB = 8388608000 KB
+2. 12 MB = 12 * 1024 KB = 12 * 1024 * 1024 B = 12582912 Bayt
+3. 5000 GB = 5000 / 1024 TBB= 4.8828 TB
+4. 3000 MB = 3000 / 1024 GB =2.9297 GB

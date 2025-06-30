@@ -1,0 +1,12 @@
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1. 12000 Bit necha KB ga teng.
+2. 2048 KB necha MB ga teng.
+3. 16000 Bit necha KB ga teng.
+4. 4096 Bayt necha KB ga teng.
+bit bayt kb mb tr
+javob:
+
+1. 12000/8/1024=1.46484375
+2. 2048 KB = 2048 / 1024 = 2 MB
+3. 16000/8/1024 = 1.953125 KB
+4. 4096/1024 = 4 KB

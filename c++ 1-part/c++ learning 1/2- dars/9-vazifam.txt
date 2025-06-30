@@ -1,0 +1,13 @@
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1. 3 MB va 8 KB jami necha KB ga teng.
+2. 7 GB va 11 MB jami necha KB ga teng.
+3. 3 MB va 82 KB jami necha Bayt ga teng.
+4. 12 Bayt va 8 KB jami necha Bit ga teng.
+5. 4 MB va 10 KB jami necha Bit ga teng.
+bit bayt kb mb tr
+javob:
+
+1. 3mb==3*1024 kb  +8kb =3620 kb
+2. 7gb==7*1024 mb  +11 mb=7179*1024=7,351,296 kb
+3. 3mb==3*1024 kb +82 kb=3,154*1024=3,229,696 bayt
+4. 4mb== 4*1024 kb + 10 kb=4,106*8=32,848 bit

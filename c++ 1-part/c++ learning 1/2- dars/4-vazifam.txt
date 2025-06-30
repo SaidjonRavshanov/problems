@@ -1,0 +1,11 @@
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1.  5 GB necha MB ga teng.
+2.  3 MB necha KB ga teng.
+3.  8 TB necha MB ga teng.
+4.  5 GB necha MB ga teng.
+
+javob:
+1. 5*1024=>5120
+2. 3*1024=>3072
+3. 8*1024=8192
+4. 5*1024=>5120

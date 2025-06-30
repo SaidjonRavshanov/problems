@@ -1,0 +1,11 @@
+1- vazifa
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1.  2 Soat necha Minut ga teng
+2.  5 Hafta necha Soat ga teng
+3.  4 Minut necha Sekund ga teng
+4.  25 Soat necha Sekund ga teng
+javob:
+1. 2*60=120 minutga
+2. 5*7*24=840 soatga
+3. 4*60=240 sekundga
+4. 25*60*60=90000 sekundga

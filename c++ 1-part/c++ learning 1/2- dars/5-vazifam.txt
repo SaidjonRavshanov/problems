@@ -1,0 +1,13 @@
+5-vazifa
+
+Quyidagi savollar yechimini daftarda yoki biror bir elektron dastur(notepad, word, excel...) yordamida bajarib jo'nating :
+1.  8 KB necha Bayt ga teng.
+2.  4 MB necha Bit ga teng.
+3.  3 Bayt necha Bit ga teng.
+4.  1 MB necha KB ga teng.
+bit bayt kb mb tr
+javob:
+1. 8*1024=8192 bayt
+2. 4 * 1024 * 1024 * 8 Bit = 33554432 Bit
+3. 3*8=24 bit
+4. 1*1024=1024 kb
